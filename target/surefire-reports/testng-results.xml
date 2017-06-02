@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="84" started-at="2017-06-02T10:30:11Z" finished-at="2017-06-02T10:30:11Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="84" started-at="2017-06-02T10:30:11Z" finished-at="2017-06-02T10:30:11Z">
+      <class name="TestGet">
+        <test-method status="PASS" signature="before()[pri:0, instance:TestGet@d041cf]" name="before" is-config="true" duration-ms="0" started-at="2017-06-02T13:30:11Z" finished-at="2017-06-02T13:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testChangeMethod(int, java.lang.String)[pri:0, instance:TestGet@d041cf]" name="testChangeMethod" duration-ms="0" started-at="2017-06-02T13:30:11Z" data-provider="arraych" finished-at="2017-06-02T13:30:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangeMethod -->
+        <test-method status="PASS" signature="testChangeMethod(int, java.lang.String)[pri:0, instance:TestGet@d041cf]" name="testChangeMethod" duration-ms="0" started-at="2017-06-02T13:30:11Z" data-provider="arraych" finished-at="2017-06-02T13:30:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangeMethod -->
+        <test-method status="PASS" signature="testChangeMethod(int, java.lang.String)[pri:0, instance:TestGet@d041cf]" name="testChangeMethod" duration-ms="0" started-at="2017-06-02T13:30:11Z" data-provider="arraych" finished-at="2017-06-02T13:30:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangeMethod -->
+        <test-method status="PASS" signature="before()[pri:0, instance:TestGet@d041cf]" name="before" is-config="true" duration-ms="0" started-at="2017-06-02T13:30:11Z" finished-at="2017-06-02T13:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:TestGet@d041cf]" name="before" is-config="true" duration-ms="0" started-at="2017-06-02T13:30:11Z" finished-at="2017-06-02T13:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:TestGet@d041cf]" name="before" is-config="true" duration-ms="0" started-at="2017-06-02T13:30:11Z" finished-at="2017-06-02T13:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:TestGet@d041cf]" name="before" is-config="true" duration-ms="0" started-at="2017-06-02T13:30:11Z" finished-at="2017-06-02T13:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testChangeMethod(int, java.lang.String)[pri:0, instance:TestGet@d041cf]" name="testChangeMethod" duration-ms="0" started-at="2017-06-02T13:30:11Z" data-provider="arraych" finished-at="2017-06-02T13:30:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangeMethod -->
+        <test-method status="PASS" signature="testChangeMethod(int, java.lang.String)[pri:0, instance:TestGet@d041cf]" name="testChangeMethod" duration-ms="0" started-at="2017-06-02T13:30:11Z" data-provider="arraych" finished-at="2017-06-02T13:30:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangeMethod -->
+      </class> <!-- TestGet -->
+      <class name="TestChange">
+        <test-method status="PASS" signature="before()[pri:0, instance:TestChange@1134affc]" name="before" is-config="true" duration-ms="21" started-at="2017-06-02T13:30:11Z" finished-at="2017-06-02T13:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testGetMethod()[pri:0, instance:TestChange@1134affc]" name="testGetMethod" duration-ms="0" started-at="2017-06-02T13:30:11Z" finished-at="2017-06-02T13:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetMethod -->
+      </class> <!-- TestChange -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
