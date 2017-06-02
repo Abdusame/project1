@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>JavaHTTP1</ScriptName>
+  <Protocol>Java over HTTP</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.java" Filter="2" />
+    <FileEntry Name="Actions.java" Filter="2" />
+    <FileEntry Name="vuser_end.java" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="JavaHTTP1.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="2" />
+    <FileEntry Name="Bookmarks.xml" Filter="2" />
+    <FileEntry Name="Breakpoints.xml" Filter="2" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="2" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="2" />
+    <FileEntry Name="UserTasks.xml" Filter="2" />
+    <FileEntry Name="powermock-core-1.0-SNAPSHOT-jar-with-dependencies.jar" Filter="2" />
+    <FileEntry Name="Action.c" Filter="1" />
+    <FileEntry Name="Actions.class" Filter="1" />
+    <FileEntry Name="Actions.java.bak" Filter="1" />
+    <FileEntry Name="Actions.java.sed" Filter="1" />
+    <FileEntry Name="JavaHTTP1.sdf" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv1KN.539.log" Filter="1" />
+    <FileEntry Name="mdrv1O6.545.log" Filter="1" />
+    <FileEntry Name="mdrv2ue.917.log" Filter="1" />
+    <FileEntry Name="mdrv57Y.185.log" Filter="1" />
+    <FileEntry Name="mdrvcDJ.813.log" Filter="1" />
+    <FileEntry Name="mdrvCfA.483.log" Filter="1" />
+    <FileEntry Name="mdrvCoG.417.log" Filter="1" />
+    <FileEntry Name="mdrvdIY.329.log" Filter="1" />
+    <FileEntry Name="mdrvEp5.509.log" Filter="1" />
+    <FileEntry Name="mdrvg1g.357.log" Filter="1" />
+    <FileEntry Name="mdrvGJa.863.log" Filter="1" />
+    <FileEntry Name="mdrvjeJ.99.log" Filter="1" />
+    <FileEntry Name="mdrvkQG.307.log" Filter="1" />
+    <FileEntry Name="mdrvp4m.281.log" Filter="1" />
+    <FileEntry Name="mdrvrLX.991.log" Filter="1" />
+    <FileEntry Name="mdrvuPl.23.log" Filter="1" />
+    <FileEntry Name="mdrvVpR.805.log" Filter="1" />
+    <FileEntry Name="mdrvWS4.659.log" Filter="1" />
+    <FileEntry Name="mdrvWw6.275.log" Filter="1" />
+    <FileEntry Name="mdrvXwz.49.log" Filter="1" />
+    <FileEntry Name="mdrvyO4.375.log" Filter="1" />
+    <FileEntry Name="mdrvzjz.35.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="vuser_end.c" Filter="1" />
+    <FileEntry Name="vuser_init.c" Filter="1" />
+    <FileEntry Name="lib\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

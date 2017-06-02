@@ -1,0 +1,18 @@
+Notify: Found jdk version: 1.8.0.
+Warning: Warning: Classpath entry not found: c:\users\אבהףסאלות\documents\vugen\scripts\javahttp1\original-testartid-1.0-snapshot.jar;
+Notify: classpath=C:\Users\Àבהףסאלות\Documents\VuGen\Scripts\JavaHTTP1\;d:\loadrunner\classes\srv;d:\loadrunner\classes;C:\Users\Àבהףסאלות\Documents\VuGen\Scripts\JavaHTTP1\original-testArtId-1.0-SNAPSHOT.jar;;;C:\Users\Àבהףסאלות\Documents\VuGen\Scripts\JavaHTTP1\powermock-core-1.0-SNAPSHOT-jar-with-dependencies.jar;;d:\loadrunner\lib\xstream-1.4.8.jar;d:\loadrunner\lib\xpp3-1.1.4c.jar
+Notify: Path=C:\Program Files (x86)\Java\jdk1.8.0_121\jre\bin\client;C:\Program Files (x86)\Java\jdk1.8.0_121\bin;D:\Loadrunner\bin\NativeBinaries\x86;D:\Loadrunner\Bin;D:\Loadrunner\Bin\tulip\bin;C:\Program Files (x86)\HP\NV\lib\shunra\vcat;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files (x86)\iis express\PHP\v5.3;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\MATLAB\R2013b\runtime\win64;C:\Program Files\MATLAB\R2013b\bin;C:\Program Files\MATLAB\R2013b\polyspace\bin;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Java\jre1.8.0_45\bin;C:\Users\Àבהףסאלות\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Loadrunner\strawberry-perl\perl\bin;C:\Program Files (x86)\HP\NV\lib\thirdparty\safenet\LDK\7.0;C:\Program Files (x86)\HP\NV\lib\shunra\snv;C:\Program Files\apache-maven-3.5.0\bin;C:\Users\Àבהףסאלות\AppData\Local\Microsoft\WindowsApps;
+Notify: VM Params: .
+Virtual User Script started at : 02.06.2017 15:21:01
+Starting action vuser_init.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 4  	[MsgId: MMSG-26989]
+Starting action Actions.
+Ending action Actions.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
