@@ -7,6 +7,8 @@ public class Singleton {
 
     private Singleton() {}
 
+    //public static final Singleton INSTANCE = new Singleton();
+
     public static synchronized Singleton getInstance() {
         if(instance == null){
             instance = new Singleton();
@@ -20,10 +22,12 @@ public class Singleton {
             final Random random = new Random();
             for (int i = 0; i < 100; i++) {
                 int r = random.nextInt(2);
-                if (r == 0) {
-                    array.add("Fail");
-                } else if (r == 1) {
-                    array.add("Pass");
+                synchronized(array) {
+                    if (r == 0) {
+                        array.add("Fail");
+                    } else if (r == 1) {
+                        array.add("Pass");
+                    }
                 }
             }
             /*for (int i = 0; i < array.size(); i++) {
@@ -39,7 +43,9 @@ public class Singleton {
     }
 
     public void change(int index, String value){
-        array.set(index, value);
+        synchronized(array) {
+            array.set(index, value);
+        }
     }
 
     public String getValue(int index){
